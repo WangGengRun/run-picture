@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.run.runpicturebackend.demos.web;
+package com.run.runpicturebackend.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.run.runpicturebackend.demos.web;
+package com.run.runpicturebackend.controller;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
